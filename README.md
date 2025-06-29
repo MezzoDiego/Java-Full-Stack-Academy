@@ -67,7 +67,7 @@ Microservizio backend che simula una partita di poker online. L’obiettivo è d
 
 ## 💡 Note finali
 
-Questi progetti rappresentano un mix di esperienze su architetture monolitiche, RESTful e full-stack, fondamentali per il mio percorso da sviluppatore. Ho anche realizzato numerosi altri progetti minori (ancora pushati su repo privato), esercitazioni su Servlet, JSP e JDBC, non inclusi in questo repository per mantenere il focus sui progetti più completi e strutturati.
+Questi progetti rappresentano un mix di esperienze su architetture monolitiche, RESTful e full-stack, fondamentali per il mio percorso da sviluppatore. Ho anche realizzato numerosi altri progetti minori (disponibili su repo privato), esercitazioni su Servlet, JSP e JDBC, non inclusi in questo repository per mantenere il focus sui progetti più completi e strutturati.
 
 ---
 
