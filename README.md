@@ -42,7 +42,7 @@ A management application for a pizzeria. It allows handling of customers, orders
 Frontend interface for the **PizzaStore** project, developed in Angular. It communicates with the backend REST APIs to enable full web-based application management.
 
 **Technologies used:**
-- Angular 15+  
+- Angular 15
 - RxJS  
 - Bootstrap / Angular Material
 
